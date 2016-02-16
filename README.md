@@ -8,7 +8,7 @@ This is a workshop for node js based on [expressworks](https://github.com/azat-c
 * jade
 * stylus
 
-```
+```javascript
 npm install express
 npm install body-parser
 npm install jade
